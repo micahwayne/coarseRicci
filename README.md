@@ -1,2 +1,0 @@
-# coarseRicci
-coarse Ricci curvature
